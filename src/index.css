@@ -1,5 +1,4 @@
 * {
-    background-color:#f3ecec ;
 	color:#0a0909;
 	margin: 4px;
 	padding: 0;
@@ -48,7 +47,8 @@
     align-content: center;
 }
 .btn_explore{  
-    border-color:#0a0909;
+    border-color: #dbd1c4;
+    background-color: #dbd1c4;
     font-weight:bolder;
     border-style:groove;
     margin-left: 1000px;
@@ -58,7 +58,8 @@
     border-radius: 20px;
 }
 .btn_explore:hover{
-   border-color: #6b4007;
+   border-color: white;
+   background-color: white;
 }
 .btn_explore i{
     font-size: 70px;
