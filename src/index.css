@@ -1,24 +1,46 @@
 * {
-	background-color:#F9B393;
-	color:#050200;
+    background-color:#f3ecec ;
+	color:#0a0909;
 	margin: 4px;
 	padding: 0;
 	box-sizing: border-box;
 	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
 		Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
-.index-stn{
+.top-bar{
+    position: absolute;
+    top: 0px;
+    width: 99%;
+    padding: 30px;
+    background-image: linear-gradient(to bottom right, #1d1c1b, #d6d5d4);
+    border-radius: 30px;  
+}
+.bot-bar{
+    position: absolute;
+    width: 99%;
+    bottom: 0px;
+    padding: 30px;
+    background-image: linear-gradient(to bottom right, #1d1c1b, #d6d5d4);
+    border-radius: 30px;  
+}
+.intro-stn{
     display: flex;
-    justify-content: center;
-    align-content: center;
 }
 .title_chessOpening{
+    margin-left: 20px;
     margin-top: 120px;
     font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bolder;
 }
 .title_chessOpening i{
     font-size: 100px;
+}
+.tagline{
+    margin-left: 70px;
+    color:#353434 ;
+    font-weight: bolder;
+    font-size: 40px;
 }
 .btn_explore-stn{
     display: flex;
@@ -26,12 +48,18 @@
     align-content: center;
 }
 .btn_explore{  
+    border-color:#0a0909;
+    font-weight:bolder;
+    border-style:groove;
+    margin-left: 1000px;
     margin-top: 130px;
-    font-size: 80px;
-    background-color:#fffefe;
+    margin-bottom: 100px;
+    font-size: 70px;
     border-radius: 20px;
 }
+.btn_explore:hover{
+   border-color: #6b4007;
+}
 .btn_explore i{
-    background-color:#fffefe;
     font-size: 70px;
 }
