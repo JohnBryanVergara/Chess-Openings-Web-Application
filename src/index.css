@@ -26,8 +26,8 @@
     display: flex;
 }
 .title_chessOpening{
-    margin-left: 20px;
-    margin-top: 120px;
+    margin-left: 40px;
+    margin-top: 130px;
     font-size: 100px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bolder;
@@ -36,7 +36,7 @@
     font-size: 100px;
 }
 .tagline{
-    margin-left: 70px;
+    margin-left: 90px;
     color:#353434 ;
     font-weight: bolder;
     font-size: 40px;
