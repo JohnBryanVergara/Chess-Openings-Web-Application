@@ -1,2 +1,2 @@
-### Chess Opening Training Web Application
+### Chess Openings Web Application
 HTML CSS Vanilla JS
