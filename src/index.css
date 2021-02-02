@@ -4,7 +4,7 @@
 		Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .navbar-stn{
-    margin-bottom: 80px;
+    margin-bottom: 120px;
 }
 .navbar{
     color: #ffffff;
@@ -18,9 +18,7 @@
 
 
 
-.content{
-    padding: 60px;
-}
+
 .container-stn{
     margin-top: 20px;
     display:flex;
@@ -64,7 +62,7 @@
 .footer{
     flex-wrap: wrap;
     align-items:stretch;
-    margin-top: 40px;
+    margin-top: 120px;
     padding: 20px;
     background-image: linear-gradient(to bottom right, #1d1c1b, #d6d5d4);
     border-radius: 10px; 
