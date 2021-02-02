@@ -47,7 +47,7 @@ color: #000000;
     justify-content: center;
     align-items: center;
 }
-@media (max-width: 800px) {
+@media (max-width:200px) {
     .content-opening-stn{
       flex: 50%;
     }
@@ -101,7 +101,6 @@ color: #000000;
 
 
 .footer{
-    display: flex;
     flex-wrap: wrap;
     align-items:stretch;
     margin-top: 30px;
