@@ -6,9 +6,9 @@
 .content{
     padding: 30px;
 }
-.container-stn{
+.content-stn{
     display:flex;
-    justify-content:center;
+    justify-content:space-between;
     align-content: center;
 }
 .title_chessOpening{
