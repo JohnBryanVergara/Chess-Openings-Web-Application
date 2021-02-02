@@ -126,8 +126,13 @@ color: #000000;
 }
 
 
-.copyright-link{
-    text-decoration: none;
+.copyright{
     display: flex;
     justify-content: center;
+    align-items: center;
+}
+
+
+.copyright-link{
+    text-decoration: none;
 }
