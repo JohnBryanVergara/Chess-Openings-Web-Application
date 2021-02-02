@@ -4,32 +4,32 @@
 		Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .content{
-    padding: 50px;
+    padding: 30px;
 }
 .container-stn{
     display:flex;
     justify-content:center;
-    align-items: center;
+    align-content: center;
 }
 .title_chessOpening{
-    font-size: 40px;
+    font-size: 60px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
 }
 .title_chessOpening i{
-    font-size: 40px;
+    font-size: 60px;
 }
 .tagline{
     color:#353434 ;
     font-weight: bolder;
-    font-size: 10px;
+    font-size: 30px;
 }
 .btn_explore{  
     border-color: #dbd1c4;
     background-color: #dbd1c4;
     font-weight:bolder;
     border-style:groove; 
-    font-size: 10px;
+    font-size: 30px;
     padding: 3px;
     border-radius: 20px;
 }
@@ -37,5 +37,5 @@
    background-color:#f5f5f5;
 }
 .btn_explore i{
-    font-size: 20px;
+    font-size: 30px;
 }
