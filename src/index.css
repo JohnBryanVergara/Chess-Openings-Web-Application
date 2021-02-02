@@ -4,25 +4,21 @@
 	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
 		Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
-.container{
-    box-sizing: border-box;
+.content{
     padding: 50px;
 }
-.content{
+.container-stn{
     display:flex;
     justify-content: center;
     align-content: center;
 }
-.intro-stn{
-    display: flex;
-}
 .title_chessOpening{
-    font-size: 100px;
+    font-size: 80px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
 }
 .title_chessOpening i{
-    font-size: 100px;
+    font-size: 80px;
 }
 .tagline{
     color:#353434 ;
@@ -34,12 +30,12 @@
     background-color: #dbd1c4;
     font-weight:bolder;
     border-style:groove; 
-    font-size: 70px;
+    font-size: 40px;
     border-radius: 20px;
 }
 .btn_explore:hover{
    background-color:#f5f5f5;
 }
 .btn_explore i{
-    font-size: 70px;
+    font-size: 40px;
 }
